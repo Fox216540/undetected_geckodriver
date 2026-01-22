@@ -18,6 +18,7 @@ PLATFORM_DEPENDENT_PARAMS = {
     "Linux": {
         "firefox_execs": ["firefox", "firefox-bin"],
         "firefox_paths": [
+            "/opt/firefox",
             "/usr/lib/firefox",
             "/usr/lib/firefox-esr",
             "/usr/lib/firefox-developer-edition",
